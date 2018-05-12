@@ -1,0 +1,33 @@
+_repo: Illuminated-Manuscripts-in-Classical-and-Mediaeval-TimesTheir-Art-and-their-Technique_45332
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45332-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Middleton, J. H. (John Henry)
+    aliases:
+    - Middleton, J. Henry
+    - Middleton, John Henry
+    birthdate: 1846
+    deathdate: 1896
+    gutenberg_agent_id: '43223'
+    url: http://www.gutenberg.org/2009/agents/43223
+    wikipedia: http://en.wikipedia.org/wiki/John_Henry_Middleton
+description: ''
+gutenberg_issued: '2014-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45332'
+  lccn: '12003780'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Manuscripts'
+- !lcc 'ND'
+- !lcsh 'Illumination of books and manuscripts'
+title: "Illuminated Manuscripts in Classical and Mediaeval Times\r\nTheir Art and\
+  \ Their Technique"
+url: http://www.gutenberg.org/ebooks/45332
